@@ -1,0 +1,8 @@
+nohup: ignoring input
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 127.0.0.1 port 5001 connected with 127.0.0.1 port 54424
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-10.0 sec  51.4 GBytes  44.1 Gbits/sec
